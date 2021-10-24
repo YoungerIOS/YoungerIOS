@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoungerIOS
-- 👀 I’m interested in Apple App development
-- 🌱 I’m currently learning Web development
+- 👀 I’m interested in developing apps for Apple
+- 🌱 I’m currently learning to develop Web app
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : @Joeyyoung18 telegram
 
